@@ -2,6 +2,8 @@
 
 An intelligent career counseling chatbot built with Streamlit and Google's Gemini AI that provides personalized career guidance, insights, and recommendations based on user interests and skills.
 
+LIVE LINK http://localhost:8501/
+
 ## ✨ Features
 
 - **AI-Powered Career Advice**: Get detailed career recommendations using Google's Gemini Flash model
